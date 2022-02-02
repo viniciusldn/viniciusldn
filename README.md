@@ -1,4 +1,4 @@
-<h1>Olá, seja bem vindo(a)</h1>
+<h1>Olá, seja bem vindo(a)!!!</h1>
 
 - 😄 Pronomes: Ele/Dele
 - 🔭 Atualmente me dedico a projetos de front-end especialmente em REACT.
