@@ -13,9 +13,16 @@
 <br>
 
 <p align="center">
+<div>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=viniciusldn&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-
+</div>
+<div>
+<img height="50%" width="auto" src ="https://
+github-readme-stats.vercel.app/api/top-langs/?username=viniciusldn&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+</div>
+<div>
 <img src ="https://github-readme-streak-stats.herokuapp.com?user=viniciusldn&theme=darcula&hide_border=true&background=FFFFFF00">
+</div>
 <a href="https://www.linkedin.com/in/viniciusldnogueira/"> <img align="center" src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Wordmark-White-Dark-Background-Logo.wine.svg" height="50" width="210"
 alt="viniciusldn" /></a>
 </p>
