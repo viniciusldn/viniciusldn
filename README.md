@@ -6,6 +6,7 @@
 - 👯 Procuro projetos e parcerias onde possa aprimorar meus conhecimentos.
 - 🤔 Tenho certa dificuldade com na parte de analize de dados e estou aberto a ajuda!
 - 💬 Quer conversar, trocar conhecimentos ou talvez tirar ideias do papel?
+    <h4>viniciusldn0@gmail.com<h4>
 - 📫 Clique no logo do LinkedIn abaixo e me mande uma mensagem!
 - ⚡ Fun fact: Eu nasci em salvador, BA, uma cidade de praia e sempre gostei muito de
   frutos do mar, ironicamente em algum momento da minha adolescencia eu fiquei alergico a
