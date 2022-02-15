@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vinicius-portoil-react/static/css/main.b122632b.css",
+    "main.js": "/vinicius-portoil-react/static/js/main.e100cbdf.js",
+    "index.html": "/vinicius-portoil-react/index.html",
+    "main.b122632b.css.map": "/vinicius-portoil-react/static/css/main.b122632b.css.map",
+    "main.e100cbdf.js.map": "/vinicius-portoil-react/static/js/main.e100cbdf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b122632b.css",
+    "static/js/main.e100cbdf.js"
+  ]
+}
