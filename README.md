@@ -1,10 +1,10 @@
 <h1>Olá, seja bem vindo(a)!!!</h1>
 
 - 😄 Pronomes: Ele/Dele
-- 🔭 Atualmente me dedico a projetos de front-end especialmente em REACT.
+- 🔭 Atualmente me dedico a projetos de Back-end especialmente em TypeScript e JAVA.
 - 🌱 Sou estudante de desenvolvimento full-stack na Trybe!
 - 👯 Procuro projetos e parcerias onde possa aprimorar meus conhecimentos.
-- 🤔 Tenho certa dificuldade com na parte de analize de dados e estou aberto a ajuda!
+- 🤔 Tenho bastante curiosidade na area de inteligencia artificial e estou aberto ao aprendizado!
 - 💬 Quer conversar, trocar conhecimentos ou talvez tirar ideias do papel?
 - 📫 Clique no logo do LinkedIn abaixo e me mande uma mensagem!
 - ⚡ Fun fact: Eu nasci em salvador, BA, uma cidade de praia e sempre gostei muito de
